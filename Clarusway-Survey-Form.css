@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 10px 100px;
+   
+}
+h1{
+    font-size: 70px;
+    text-decoration: overline ;
+    font-weight: 200;
+}
+h2{
+    font-size: 25px;
+    font-weight: 200;
+    }
+input{
+    margin-top: 15px;
+
+}
+:submit{
+    border: none;
+    opacity: 0.9;
+   
+}
+
+    
